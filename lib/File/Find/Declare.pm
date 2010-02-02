@@ -1,5 +1,5 @@
 package File::Find::Declare;
-our $VERSION = '0.61';
+our $VERSION = '0.62';
 
 # ABSTRACT: File::Find, declaratively
 
@@ -849,7 +849,7 @@ File::Find::Declare - File::Find, declaratively
 
 =head1 VERSION
 
-version 0.61
+version 0.62
 
 =head1 SYNOPSIS
 
@@ -1192,7 +1192,7 @@ filenames.
 
 The source code repository for this project is located at:
 
-  http://github.com/f0rk/file-find-flex
+  http://github.com/f0rk/file-find-declare
 
 =head1 AUTHOR
 
